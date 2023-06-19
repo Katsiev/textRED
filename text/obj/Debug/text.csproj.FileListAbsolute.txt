@@ -1,0 +1,11 @@
+C:\Users\student\Downloads\text\bin\Debug\text.exe.config
+C:\Users\student\Downloads\text\bin\Debug\text.exe
+C:\Users\student\Downloads\text\bin\Debug\text.pdb
+C:\Users\student\Downloads\text\obj\Debug\text.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\text\obj\Debug\text.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Downloads\text\obj\Debug\text.Form1.resources
+C:\Users\student\Downloads\text\obj\Debug\text.Properties.Resources.resources
+C:\Users\student\Downloads\text\obj\Debug\text.csproj.GenerateResource.cache
+C:\Users\student\Downloads\text\obj\Debug\text.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\text\obj\Debug\text.exe
+C:\Users\student\Downloads\text\obj\Debug\text.pdb
